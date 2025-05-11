@@ -60,7 +60,7 @@
 #'
 #' \insertRef{janbfastpheno}{bfast}
 #' @keywords ts
-#' @import strucchangeRcpp zoo forecast stats
+#' @import zoo forecast stats # habe hier strucchangeRcpp rausgenommen
 #' @importFrom Rcpp evalCpp
 #' @importFrom Rdpack reprompt
 #' @importFrom graphics abline axis box layout legend lines mtext par plot points rect text arrows
